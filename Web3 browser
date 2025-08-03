@@ -1,0 +1,3 @@
+mkdir web3-browser
+cd web3-browser
+npm init -y
